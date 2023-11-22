@@ -19,4 +19,4 @@ async function extractLSBsImage(inputImagePath, outputImagePath) {
 }
 
 // Usage
-extractLSBsImage('output.png', 'extracted_lsb_image_encrypted.png');
+extractLSBsImage('input.png', 'extracted_lsb_image_original.png');
